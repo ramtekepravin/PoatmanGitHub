@@ -142,10 +142,10 @@
 							"\r",
 							"})\r",
 							"\r",
-							"// Verify response body has name value as Nitin\r",
-							"pm.test(\"Verify response body has name value as Nitin\", function(){\r",
+							"// Verify response body has name value as Kisan\r",
+							"pm.test(\"Verify response body has name value as Kisan\", function(){\r",
 							"    \r",
-							"    pm.expect(pm.response.text()).to.include(\"Nitin\");\r",
+							"    pm.expect(pm.response.text()).to.include(\"Kisan\");\r",
 							"})\r",
 							"\r",
 							""
