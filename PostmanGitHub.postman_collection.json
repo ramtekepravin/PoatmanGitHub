@@ -160,7 +160,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"Nitin Ramteke\",\r\n    \"job\": \"Database Admin\"\r\n}",
+					"raw": "{\r\n    \"name\": \"Kisan Ramteke\",\r\n    \"job\": \"Database Admin\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
